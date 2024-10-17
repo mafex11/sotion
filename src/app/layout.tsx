@@ -11,7 +11,7 @@ import { cn } from '@/lib/utils'
 const font = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-    title: 'Jotion',
+    title: 'Motion',
     description: 'The connected workspace where better, together happens.',
     icons: {
         icon: [
